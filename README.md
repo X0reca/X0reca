@@ -1,11 +1,17 @@
-# Hello, I'm X0reca! ðŸ‘‹
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:0d0d0d&height=220&section=header&text=X0reca&fontSize=90&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=C%2B%2B%20%2F%20Lua%20Developer&descAlignY=62&descSize=18&descColor=aaaaaa&animation=fadeIn" width="100%"/>
 
-Welcome to my GitHub profile! 
+<h1 align="center">Hey ðŸ‘‹ What's Up?</h1>
 
-## ðŸ› ï¸ Tech Stack & Skills
-* **Languages**: C++, Lua, JavaScript, Python
-* **Interests**: Game Modification, Network Security, Reverse Engineering, UI Design
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,lua,js,py,html,css,git,github" alt="My Skills" />
+</div>
 
-## ðŸ›¡ï¸ Active Projects
-* **xshield**: Advanced FiveM Anti-Cheat protection system.
-* **X0reca-Ext**: C++ External DirectX 11 Overlay menu structure.
+<br>
+
+<div align="center">
+  <h3>ðŸ›¡ï¸ Active Projects</h3>
+  <p>
+    <a href="https://github.com/X0reca/xshield"><b>xshield</b></a> - Advanced FiveM Anti-Cheat Protection Suite<br>
+    <a href="https://github.com/X0reca/X0reca-Ext"><b>X0reca-Ext</b></a> - C++ External DirectX 11 Overlay Menu
+  </p>
+</div>
