@@ -16,7 +16,9 @@
   <h3>&#128736; Active Projects</h3>
   <p>
     <a href="https://github.com/X0reca/xshield"><b>xshield</b></a> - Advanced FiveM Anti-Cheat Protection Suite<br>
-    <a href="https://github.com/X0reca/X0reca-Ext"><b>X0reca-Ext</b></a> - C++ External DirectX 11 Overlay Menu
+    <a href="https://github.com/X0reca/X0reca-Ext"><b>X0reca-Ext</b></a> - C++ External DirectX 11 Overlay Menu<br>
+    <a href="https://github.com/X0reca/cs2-internal"><b>cs2-internal</b></a> - CS2 Internal Cheat<br>
+    <a href="https://github.com/X0reca/Cs2External"><b>Cs2External</b></a> - CS2 External Cheat
   </p>
 </div>
 
